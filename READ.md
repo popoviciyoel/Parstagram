@@ -15,4 +15,8 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 Here's a walkthrough of implemented user stories:
 
 
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/51516265/137427871-11cfa14d-3270-4c60-a5ba-5239f4f5775f.gif)
+
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/51516265/137428574-c1b653b9-8cf1-4d4a-97d8-da13b22b1681.gif)
 
